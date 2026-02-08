@@ -2,6 +2,8 @@
 
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition trends within an organization. It helps stakeholders understand where, why, and among whom attrition is highest, enabling data-driven decision-making to improve employee retention.
 
+<img width="1460" height="819" alt="image" src="https://github.com/user-attachments/assets/511a7d4c-002b-4fa4-af22-1febbbe11f20" />
+
 🔍 Key Insights from the Dashboard:
 
 Total Employees: 1,470
