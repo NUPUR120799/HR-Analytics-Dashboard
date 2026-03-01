@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# Employee Attrition Trend Analysis
 
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition trends within an organization. It helps stakeholders understand where, why, and among whom attrition is highest, enabling data-driven decision-making to improve employee retention.
 
